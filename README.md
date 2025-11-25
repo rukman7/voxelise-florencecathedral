@@ -4,7 +4,7 @@ Convert any STL model into equal-sized cubes (voxels) — inspired by Leonardo d
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/rukman7/voxelise_florencecathedral.git
+git clone https://github.com/rukman7/voxelise-florencecathedral.git
 cd voxelise_florencecathedral
 ```
 
